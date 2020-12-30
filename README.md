@@ -19,4 +19,4 @@ The prediction procedure is as follows:
 
 5. the prediction results will be printed.
 
-for developers who want to run their own mutations data, just replace the "for_test.csv" with the corresponding encoded features by a dockerized tool,  the Cancer-Related Analysis of Variants Toolkit (CRAVAT, https://hub.docker.com/r/karchinlab/cravatmupit/) or the tool of SNVbox (https://karchinlab.org/apps/appSnvBox.html).
+For developers who want to run their own mutations data, just replace the "for_test.csv" with the corresponding encoded features by a dockerized tool,  the Cancer-Related Analysis of Variants Toolkit (CRAVAT, https://hub.docker.com/r/karchinlab/cravatmupit/) or the tool of SNVbox (https://karchinlab.org/apps/appSnvBox.html).
